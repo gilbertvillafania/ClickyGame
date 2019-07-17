@@ -2,6 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://gilbertvillafania.github.io",
     "engines": {
     "node":"10.15.1",
     "npm": "6.4.1"
