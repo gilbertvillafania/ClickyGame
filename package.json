@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gilbertvillafania.github.io",
+  "homepage": "https://gilbertvillafania.github.io/ClickyGame/public/index.html",
     "engines": {
     "node":"10.15.1",
     "npm": "6.4.1"
